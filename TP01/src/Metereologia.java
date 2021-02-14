@@ -24,8 +24,8 @@ public class Metereologia {
 	        
 	        opcoesMenu = input.nextInt();
 
-	        while((opcoesMenu < 1) || (opcoesMenu > 7)){
-	        	System.out.print("Por favor, escolha uma das opcoes(1 a 7).\n");
+	        while((opcoesMenu < 1) || (opcoesMenu > 6)){
+	        	System.out.print("Por favor, escolha uma das opcoes(1 a 6).\n");
 	        	System.out.print("*Digite o numero escolhido: ");
 	        	opcoesMenu = input.nextInt();
 	        }
