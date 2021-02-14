@@ -62,7 +62,6 @@ public class Metereologia {
 	        	System.out.print("\n");
 	            break;
 	        case 6 : //___________________________________________ Opcao 6 do Menu
-	        	System.out.flush();  
 	        	System.out.print("_____________________________\n");
 	        	System.out.print("   (6) Finalizar programa. \n");
 	        	System.out.print("_____________________________\n");
